@@ -1,10 +1,7 @@
 # EDA_EXP_6
 
-```
-Name : SHRIRAM S
-Reg No : 212222240098
-```
-**Aim**
+
+## Aim:
 
 To perform complete Exploratory Data Analysis (EDA) on the Wine Quality dataset, detect and remove outliers using the IQR method, and compare the performance of a classification model (Logistic Regression) before and after outlier removal.
 
@@ -28,8 +25,8 @@ To perform complete Exploratory Data Analysis (EDA) on the Wine Quality dataset,
 
 ## Program:
 ```
-Name : DARIO G
-Reg No : 212222230027
+Name : SHRIRAM S
+Reg No : 212222240098
 ```
 ```py
 import seaborn as sns
